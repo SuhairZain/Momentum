@@ -1,0 +1,34 @@
+[
+   {
+      "definitions" : [
+         {
+            "partOfSpeech" : "noun",
+            "text" : "(noun) One who encourages audience participation."
+         },
+         {
+            "partOfSpeech" : "noun",
+            "text" : "(noun) Someone who incites others into action."
+         }
+      ],
+      "examples" : [
+         "As in previous shows, she re-creates a Sophie Tucker routine, 'Max From the Income Tax,' which ostensibly is about economic chaos but reveals more about her fascination with Tucker, a Jewish tummler who for 60 years made herself the butt literally of her own jokes about being a zaftig farbissina.",
+         "He nearly died from pneumonia last year and gets around in a wheelchair, difficult for a fizzy, rubbery-faced tummler who once danced a soft-shoe if you pointed a camera at him."
+      ],
+      "note" : "‘Tummler’ comes from the Yiddish ‘tumlen,’ to make a racket.",
+      "word" : "tummler"
+   },
+   {
+      "definitions" : [
+         {
+            "partOfSpeech" : "noun",
+            "text" : "One who hides or buries books, or keeps them under lock and key."
+         }
+      ],
+      "examples" : [
+         "The bibliotaph buries books; not literally, but sometimes with as much effect as if he had put his books underground.",
+         "The late Sir Thomas Phillipps, of Middle Hill, was a remarkable instance of a bibliotaph."
+      ],
+      "note" : "This word comes from the Greek 'biblio-,' combining form of 'biblion,' book, and 'taphos,' tomb.",
+      "word" : "bibliotaph"
+   }
+]
